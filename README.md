@@ -1,18 +1,16 @@
-## Hi there 👋  
+## 👋 Hi, I'm @Hasinsala Nidukani!  
 
-<!--  
-**Hasinsala/Hasinsala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
--->  
+💻 Aspiring Software Engineer | Web Developer | DevOps & ML Enthusiast  
+🌟 Passionate about building web applications, managing cloud workflows, and exploring AI solutions.  
+📚 Currently working with React, Next.js, Node.js, Networking, DevOps (MLOps), and Machine Learning.  
+💡 Always eager to learn, experiment, and innovate in the world of tech!  
 
-- 🔭 I’m currently working on **web development, networking, DevOps (MLOps), and machine learning.**  
-- 🌱 I’m currently learning **React, Next.js, Node.js, Kubernetes, Docker, and AI model deployment.**  
-- 👯 I’m looking to collaborate on **exciting open-source projects and innovative tech solutions.**  
-- 🤔 I’m looking for help with **advanced machine learning and cloud-based DevOps workflows.**  
-- 💬 Ask me about **React, Next.js, networking, DevOps, and AI!**  
-- 📫 How to reach me: **[Email Me](mailto:hasinsalaugc@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hasinsala-nidukani-9436a8259/)**  
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: **I love solving tech challenges and making things work seamlessly!** 🚀  
+### 🚀 What I’m Learning & Working On:  
+- 🖥 **Web Development:** React, Next.js, Node.js  
+- 🌐 **Networking & DevOps:** Kubernetes, Docker, MLOps  
+- 🤖 **Machine Learning:** AI, Deep Learning, Model Deployment  
 
----
+### 🌍 Connect with Me:  
+[📧 Email Me](mailto:hasinsalaugc@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/hasinsala-nidukani-9436a8259/)  
 
-🔥 **Let’s connect and build something amazing!** 😊  
+🔥 Let’s collaborate and build amazing things together! 🚀  
